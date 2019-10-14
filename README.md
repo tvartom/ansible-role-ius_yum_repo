@@ -12,8 +12,8 @@ Create `requirements.yml` in your ansible playbook-folder.
     ---
     # Documentation:
     # https://docs.ansible.com/ansible/latest/reference_appendices/galaxy.html#installing-multiple-ro
-....
-....
+    
+    
     - name: tvartom.ius_yum_repo
       src: https://github.com/tvartom/ansible-role-ius_yum_repo
       scm: git
