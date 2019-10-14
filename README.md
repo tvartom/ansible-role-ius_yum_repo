@@ -4,7 +4,7 @@ ansible-role-ius_yum_repo
 Setup IUS yum repository for CentOS 7 as an Ansible-role.
 https://ius.io/
 
-nstall role
+Install role
 ------------
 
 Create `requirements.yml` in your ansible playbook-folder.
