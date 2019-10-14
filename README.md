@@ -7,7 +7,7 @@ https://ius.io/
 Install role
 ------------
 
-Create `requirements.yml` in your ansible playbook-folder.
+Create `requirements.yml` in your ansible playbook-folder:
 
     ---
     # Documentation:
